@@ -15,11 +15,14 @@ This project is a simple tool built using OpenCV that allows users to pick color
 - **cv2.rectangle()**: Draws a rectangle to display the hex code.
 - **cv2.putText()**: Displays the hex code inside the rectangle.
 
+## Demo
+<img src="opb48.jpg" alt="Demo Image" width="400"/>
+
 ## Example Output
 - When you double-click on an area of the image, the following information will be printed in the terminal:
   ```bash
   255 128 64  # RGB values
   HexCode: #FF8040  # Hex code
   ```
-## Demo
-![Demo Screenshot](screenshot.png)
+
+
